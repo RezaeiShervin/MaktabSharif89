@@ -1,0 +1,7 @@
+Id,ProductName,SupplierId,CategoryId,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+5,Chef Anton's Gumbo Mix,2,2,36 boxes,21.35,0,0,0,1
+17,Alice Mutton,7,6,20 - 1 kg tins,39,0,0,0,1
+24,Guaraná Fantástica,10,1,12 - 355 ml cans,4.5,20,0,0,1
+28,Rössle Sauerkraut,12,7,25 - 825 g cans,45.6,26,0,0,1
+42,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14,26,0,0,1
+53,Perth Pasties,24,6,48 pieces,32.8,0,0,0,1

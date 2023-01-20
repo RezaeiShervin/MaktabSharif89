@@ -1,0 +1,1 @@
+UPDATE 'Order' SET OrderDate = '2021 -06-20' , ShipCountry = 'Germany' WHERE CustomerId = 'VICTE';
