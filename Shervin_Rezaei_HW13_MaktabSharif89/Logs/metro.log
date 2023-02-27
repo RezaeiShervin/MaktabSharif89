@@ -1,0 +1,28 @@
+2023-02-14 02:44:06,366 error_logger Ran out of input main
+2023-02-14 02:44:06,367 __main__ admin tried to log in main
+2023-02-17 13:36:44,838 error_logger Password length must be between 8 and 16 main
+2023-02-17 13:37:24,159 root User instance created: name=shervin, id=UUID('dfd95c56-aeaa-11ed-96a3-f85ea0b6715f') human
+2023-02-17 13:37:48,514 error_logger Duplicate Username main
+2023-02-17 13:49:24,667 __main__ shervin has successfuly logged in main
+2023-02-17 13:49:45,087 __main__ shervin has successfuly deposited 500 main
+2023-02-17 13:51:14,778 ticket_logger ticket created ticket
+2023-02-17 13:51:14,778 __main__ shervin bought ChargebleTicket main
+2023-02-17 13:51:34,107 ticket_logger ticket created ticket
+2023-02-17 13:51:34,108 __main__ shervin bought DisposableTicket main
+2023-02-17 13:51:41,539 __main__ shervin has taken a trip main
+2023-02-17 13:51:56,255 ticket_logger ticket created ticket
+2023-02-17 13:51:56,256 __main__ shervin bought ExpirableTicket main
+2023-02-17 13:52:19,755 ticket_logger ticket created ticket
+2023-02-17 13:52:19,756 __main__ shervin bought ChargebleTicket main
+2023-02-17 13:53:10,063 __main__ shervin has taken a trip main
+2023-02-17 13:55:12,311 __main__ shervin logged out main
+2023-02-17 13:55:28,488 error_logger Ran out of input main
+2023-02-17 13:55:28,488 __main__ admin tried to log in main
+2023-02-17 13:56:22,380 error_logger Ran out of input main
+2023-02-17 13:56:22,381 __main__ admin tried to log in main
+2023-02-17 13:57:01,615 ticket_logger ticket created ticket
+2023-02-17 13:57:01,617 Admin_logger 	Type: Chargeble Ticket
+	Ticket ID: 9dab012e-aead-11ed-bd7c-f85ea0b6715f
+	Credit: 50 created human
+2023-02-17 13:58:29,684 error_logger Ran out of input main
+2023-02-17 13:58:29,685 __main__ admin tried to log in main

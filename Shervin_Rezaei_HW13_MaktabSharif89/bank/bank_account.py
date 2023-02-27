@@ -14,6 +14,6 @@ class BankAccount:
     def display_account_info(self, name):
         assert (self.balance - 1) > 0 , "Insufficient Funds"
         self.balance -= 1
-        return f"User:{name}'s {self.title} and account balance is ${round(self.balance,2)}.\nCharging 1$ for taking balance!"
+        return f"User:{name}'s {self.title} and account balance is ${self.balance}.\nCharging 1$ for taking balance!"
 
 

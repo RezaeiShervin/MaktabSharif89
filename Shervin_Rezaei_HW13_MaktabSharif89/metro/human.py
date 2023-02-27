@@ -8,7 +8,7 @@ from exceptions import *
 #
 admin_logger = logging.getLogger('Admin_logger')
 admin_logger.setLevel(logging.INFO)
-admin_f_h = logging.FileHandler('Admins.log')
+admin_f_h = logging.FileHandler('Logs/Admins.log')
 admin_f_f = logging.Formatter('%(asctime)s - %(message)s')
 admin_f_h.setFormatter(admin_f_f)
 admin_f_h.setLevel(level=logging.INFO)

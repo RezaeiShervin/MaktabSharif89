@@ -1,1 +1,1 @@
-DELETE FROM Customer WHERE Country='Spain';۱
+DELETE FROM Customer WHERE Country='Spain';

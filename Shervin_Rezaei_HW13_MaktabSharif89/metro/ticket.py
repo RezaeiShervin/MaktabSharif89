@@ -9,7 +9,7 @@ import logging
 
 # pip install python-dateutil
 logger = logging.getLogger('ticket_logger')
-ticket_handler = logging.FileHandler('ticket.log')
+ticket_handler = logging.FileHandler('Logs/ticket.log')
 ticket_formatter = logging.Formatter('%(asctime)s - %(message)s %(name)s %(message)s %(module)s')
 ticket_handler.setFormatter(ticket_formatter)
 logger.addHandler(ticket_handler)

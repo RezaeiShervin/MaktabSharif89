@@ -1,13 +1,11 @@
-
 class DuplicateUsernameError(Exception):
     '''Raise when there is a duplicate username'''
-    def __init__(self, message, errors=None):
-        super(DuplicateUsernameError, self).__init__(message)
-        self.errors = errors
-
+    # def __init__(self, message, errors=None):
+    #     super(DuplicateUsernameError, self).__init__(message)
+    #     self.errors = errors
+    pass
 
 class SpecialCharError(Exception):
-    '''Raise when there is a duplicate username'''
     def __init__(self, message=None):
         self.message = message
         self.special = ('#', '@', '&', '?', '!', '*', '$')
