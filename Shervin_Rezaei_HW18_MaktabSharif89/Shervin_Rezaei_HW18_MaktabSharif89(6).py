@@ -18,6 +18,5 @@ pipline = [
     '$project':{'_id':1}
     }]
 writers = database.comments.aggregate(pipline)
-
 for writer in writers:
     print(writer)
